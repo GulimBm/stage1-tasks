@@ -1,0 +1,60 @@
+ [
+  {
+    url: 'https://raw.githubusercontent.com/GulimBm/stage1-tasks/assets/sounds/Aqua Caelestis.mp3',
+    name: 'Aqua Caelestis',
+    singer: 'Sensorica',
+    duration: 39,
+    index: 0
+  },
+  {
+    url: 'https://raw.githubusercontent.com/GulimBm/stage1-tasks/assets/sounds/Ennio_Morricone_-_Chi_Ma_.mp3',
+    name: 'Chi Mai',
+    singer: 'Ennio Morricone',
+    duration: 3.32,
+    index: 1
+    
+  },
+  {
+    url: 'https://raw.githubusercontent.com/GulimBm/stage1-tasks/assets/sounds/Ennio_Morricone.mp3',
+    name: 'Professional',
+    singer: 'Ennio Morricone',
+    duration: 1.37,
+    index: 2
+  },
+  {
+    url: 'https://raw.githubusercontent.com/GulimBm/stage1-tasks/assets/sounds/Robert_Miles_-_Children.mp3',
+    name: 'Children',
+    singer: 'Robert Miles',
+    duration: 4.02,
+    index: 3
+  },
+  {
+    url: 'https://raw.githubusercontent.com/GulimBm/stage1-tasks/assets/sounds/River Flows In You.mp3',
+    name: 'River flows in you',
+    singer: 'Yiruma',
+    duration: 1.37,
+    index:4
+  },
+  {
+    url: 'https://raw.githubusercontent.com/GulimBm/stage1-tasks/assets/sounds/Summer Wind.mp3',
+    name: 'Wind Sound',
+    singer: 'Summer Wind',
+    duration: 1.50,
+    index: 5
+  },
+  {
+    url: 'https://raw.githubusercontent.com/GulimBm/stage1-tasks/assets/sounds/Forrest_sounds.mp3',
+    name: 'Forrest sounds',
+    singer: 'Unknown',
+    duration: 5.29,
+    index: 6
+  },
+  {
+    url: 'https://raw.githubusercontent.com/GulimBm/stage1-tasks/assets/sounds/Evening_forrest_sounds.mp3',
+    name: 'Evening Forrest Sounds',
+    singer: 'Unknown',
+    duration: 2.50,
+    index: 7
+  },
+
+  ]
