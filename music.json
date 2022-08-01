@@ -1,6 +1,6 @@
  [
   {
-    music: 'https://raw.githubusercontent.com/GulimBm/stage1-tasks/assets/sounds/Aqua Caelestis.mp3',
+    music: 'sounds/Aqua Caelestis.mp3',
     name: 'Aqua Caelestis',
     singer: 'Sensorica',
     duration: 39,
