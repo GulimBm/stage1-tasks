@@ -1,13 +1,13 @@
  [
   {
-    music: 'sounds/Aqua Caelestis.mp3',
+    music: 'Aqua Caelestis.mp3',
     name: 'Aqua Caelestis',
     singer: 'Sensorica',
     duration: 39,
     index: 0
   },
   {
-    music: 'sounds/Ennio_Morricone_-_Chi_Ma_.mp3',
+    music: 'Ennio_Morricone_-_Chi_Ma_.mp3',
     name: 'Chi Mai',
     singer: 'Ennio Morricone',
     duration: 3.32,
